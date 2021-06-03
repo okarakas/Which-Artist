@@ -8,9 +8,9 @@ You can use Camera or Gallery.
 
 You can also find a brief information about the life of the chosen painter in the list of results.
 
-![First Screen](https://github.com/okarakas/WhichArtist/blob/main/screenshots/1.jpeg?raw=true) ![Add Photo](https://github.com/okarakas/WhichArtist/blob/main/screenshots/2.jpeg?raw=true)
+![First Screen](https://github.com/okarakas/Which-Artist/blob/main/screenshots/1.jpeg?raw=true) ![Add Photo](https://github.com/okarakas/Which-Artist/blob/main/screenshots/2.jpeg?raw=true)
 
-![Classify](https://github.com/okarakas/WhichArtist/blob/main/screenshots/3.jpeg?raw=true) ![Brief information about the life](https://github.com/okarakas/WhichArtist/blob/main/screenshots/3.jpeg?raw=true)
+![Classify](https://github.com/okarakas/Which-Artist/blob/main/screenshots/3.jpeg?raw=true) ![Brief information about the life](https://github.com/okarakas/Which-Artist/blob/main/screenshots/3.jpeg?raw=true)
 
 Total of 7538 paintings.
 Total of 45 artists.
