@@ -35,7 +35,7 @@ Edvard Munch<br>
 El Greco<br>
 Eugene Delacroix<br>
 Francisco Goya<br>
-Frida Kahlo<br><br>
+Frida Kahlo<br>
 Georges Seurat<br>
 Giotto di Bondone<br>
 Gustav Klimt<br>
