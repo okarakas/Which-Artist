@@ -10,7 +10,7 @@ You can also find a brief information about the life of the chosen painter in th
 
 ![First Screen](https://github.com/okarakas/Which-Artist/blob/main/screenshots/1.jpeg?raw=true) ![Add Photo](https://github.com/okarakas/Which-Artist/blob/main/screenshots/2.jpeg?raw=true)
 
-![Classify](https://github.com/okarakas/Which-Artist/blob/main/screenshots/3.jpeg?raw=true) ![Brief information about the life](https://github.com/okarakas/Which-Artist/blob/main/screenshots/3.jpeg?raw=true)
+![Classify](https://github.com/okarakas/Which-Artist/blob/main/screenshots/3.jpeg?raw=true) ![Brief information about the life](https://github.com/okarakas/Which-Artist/blob/main/screenshots/4.jpeg?raw=true)
 
 Total of 7538 paintings.<br>
 Total of 45 artists.
