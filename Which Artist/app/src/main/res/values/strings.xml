@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Which Artist?</string>
+    <string name="welcome">Welcome to my\nImage Classification APP</string>
+    <string name="info">  **You must first add an image for Image Classification</string>
+    <string name="select">Touch Here To Take/Select Picture</string>
+    <string name="change">Touch Here To Change Picture</string>
+    <string name="classify">CLASSIFY</string>
+
+</resources>
