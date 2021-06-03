@@ -18,12 +18,12 @@ Total of 45 artists.
 
 All Artists
 
-Alfred Sisley
-Amedeo Modigliani
-Andrei Rublev
-Andy Warhol
-Camille Pissarro
-Caravaggio
+Alfred Sisley\n
+Amedeo Modigliani\n
+Andrei Rublev\n
+Andy Warhol\n
+Camille Pissarro\n
+Caravaggio\n
 Claude Monet
 Diego Rivera
 Diego Velazquez
